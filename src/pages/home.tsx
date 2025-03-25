@@ -163,7 +163,7 @@ export default function HomePage() {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ delay: 0.7, duration: 0.5 }}
               >
-                Thành lập từ năm 2010, XYZ Corp đã trở thành một trong những công ty hàng đầu trong lĩnh vực công nghệ
+                Thành lập từ năm 2010, Recruitpro Corp đã trở thành một trong những công ty hàng đầu trong lĩnh vực công nghệ
                 tại Việt Nam. Chúng tôi tự hào về đội ngũ nhân viên tài năng và văn hóa làm việc đề cao sự sáng tạo và
                 đổi mới.
               </motion.p>
@@ -224,7 +224,7 @@ export default function HomePage() {
             Tại sao chọn chúng tôi
           </motion.h2>
           <motion.p className="text-xl text-muted-foreground" variants={itemVariants}>
-            XYZ Corp là đối tác lý tưởng cho sự phát triển nghề nghiệp của bạn
+            Recruitpro Corp là đối tác lý tưởng cho sự phát triển nghề nghiệp của bạn
           </motion.p>
         </motion.div>
 
@@ -429,7 +429,7 @@ export default function HomePage() {
               </p>
               <div className="flex items-center gap-2 text-sm text-gray-500">
                 <Briefcase className="h-4 w-4" />
-                <span>Khách hàng: Tập đoàn ABC</span>
+                <span>Khách hàng: Tập đoàn Vingroup </span>
               </div>
             </div>
           </motion.div>
@@ -690,9 +690,9 @@ export default function HomePage() {
         <div className="container mx-auto px-4 relative z-10">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
             <div>
-              <h3 className="text-xl font-bold mb-4">Về XYZ Corp</h3>
+              <h3 className="text-xl font-bold mb-4">Về Recruitpro Corp</h3>
               <p className="text-blue-100 mb-4">
-                Thành lập từ năm 2010, XYZ Corp đã trở thành một trong những công ty hàng đầu trong lĩnh vực công nghệ
+                Thành lập từ năm 2010, Recruitpro Corp đã trở thành một trong những công ty hàng đầu trong lĩnh vực công nghệ
                 tại Việt Nam.
               </p>
               <div className="flex space-x-4 mt-4">
@@ -929,7 +929,7 @@ export default function HomePage() {
 
           <div className="border-t border-blue-600 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center">
-              <p className="text-blue-100 mb-4 md:mb-0">© 2025 XYZ Corp. Mọi quyền được bảo lưu.</p>
+              <p className="text-blue-100 mb-4 md:mb-0">© 2025 Recruitpro Corp. Mọi quyền được bảo lưu.</p>
               <div className="flex space-x-6">
                 <a href="#" className="text-blue-100 hover:text-white transition-colors">
                   Điều khoản sử dụng
